@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMM_GP_02</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Contains messaeg for the Eid gatepass</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Gate Pass &amp; created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Enter document year</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Enter Gate Pass No.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Vendor &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Gate Pass &amp; saved S</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Enter Vendor no.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Enter Plant</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Plant &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Atleast one material should be entered</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Gate Pass &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Gate pass &amp; deleted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Material document does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>No Gate Pass issued between &amp; and &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>No data record for the selection criteria</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Enter Doc .type</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Invalid Document Type</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Plant and year are mandatory</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Vendor &amp; does not exist.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Delivery no &amp; does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Enter customer no.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Document type &amp; does not match referece</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Enter Plant</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Gate Pass &amp; modified successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Modification not saved</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Gate Pass &amp; is not approved to print</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Gate pass &amp; saved successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Entered qty &amp;1 is greater than the remaining qty &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Document no &amp; does not exist for year &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>It is mandatory to enter party code or party name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Material Return date is mandatory</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>You do not have  authorization to create gate pass in plant &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>You do not have  authorization to view gate pass in plant &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>You do not have  authorization to modify gate pass in plant &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>You do not have  authorization to delete gate pass in plant &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>You do not have  authorization to print gate pass in plant &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Gate Pass &amp; not saved.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Select a line item</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Gate Pass &amp; is already approved , hence cannot be deleted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Gate pass &amp; is not yer approved</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Return data should be later than the approved date &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Retrun date should be later than issue date</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Entered party is different from the reference party</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Qunantity cannot be zero.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>You do not have authorization to delete approved Gate Pass.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>it is mandetory to enter the delivery number for getting customer Details</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Delivery no does not exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>For Customer Gate Pass Ref .DocNo can&apos;t be changed check your Delivery NO</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Delivery number is not relevant for entered Plant</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Gate Pass is already created against this outbound delivery</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Value is Mandatory</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Material Value to be entered in company code currency only</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Currency Field Cannot be Blank</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>Enter the Quantity</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Material Pass in Number &amp; has Been Created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>The Gate Pass Number &amp; Has Been Deleted</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>The Gate Pass &amp; Has been Revoked</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>Unit of Measurement Cannot be empty</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>Material PassIn Number &amp; Has Been Created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>Material PassOut Number &amp; has Been Created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>Gatepass &amp; Has Been Approved</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>GatePass with PO as Reference has been created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>You&apos;re not authorised to create Gatepass for &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>Enter a Valid Po</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>Please enter Gatepass Number!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>Please Enter a Valid Gatepass Number</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>Received data must be between &amp; and &amp; (open MM Period)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>Please Enter the &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>Please select atleast ine Line item</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>Please Enter the Purpose</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>You&apos;re not authroised to Display Gatepass for &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>You&apos;re not authroised to change Gatepass for &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>You&apos;re not authorised to Approve Gatepass for &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>The Gatepass &amp;1 has been Approved!! use the display option to view!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>you&apos;re not Autorised to delete the Gatepass &amp;1 !!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>you cannot delete the Approved gatepass</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>078</MSGNR>
+     <TEXT>The gatepass has already been Deleted!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>079</MSGNR>
+     <TEXT>The Gatepass been deleted!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>Entered qty cannot be greater than than qty in the PO!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>081</MSGNR>
+     <TEXT>Received date should be ahead of Purchasing Doc. date!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>082</MSGNR>
+     <TEXT>Received date should fall on Gate pass Year</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>083</MSGNR>
+     <TEXT>Purchasing Document &amp;1 not yet released!!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMM_GP_02</ARBGB>
+     <MSGNR>084</MSGNR>
+     <TEXT>Received data should not be greater than delivery date</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
